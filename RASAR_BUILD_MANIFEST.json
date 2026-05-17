@@ -1,0 +1,42 @@
+{
+  "app_id": "rasar_demo_app",
+  "app_name": "Rasar Demo App",
+  "build_id": "pbuild_rasar_demo_app_0.1.0_20260515224004_a11b2118_knd90j",
+  "build_mode": "pyarmor",
+  "clear_paths": [
+    "pyproject.toml",
+    "rasar_demo_app/__init__.py",
+    "rasar_demo_app/hooks.py",
+    "rasar_demo_app/modules.txt"
+  ],
+  "created_at": "2026-05-15 22:40:04.945688",
+  "created_by": "Administrator",
+  "excluded_count": 0,
+  "files_count": 27,
+  "import_check": "IMPORT_OK",
+  "note": "PyArmor aplicado sobre módulos Python dentro de protected/. __init__.py se mantiene claro.",
+  "obfuscated_paths": [
+    "rasar_demo_app/protected/cloud_client.py",
+    "rasar_demo_app/protected/license_guard.py",
+    "rasar_demo_app/protected/premium_rules.py",
+    "rasar_demo_app/protected/sensitive_logic.py"
+  ],
+  "obfuscation_status": "Ofuscado",
+  "protected_paths": [
+    "rasar_demo_app/protected/__init__.py",
+    "rasar_demo_app/protected/cloud_client.py",
+    "rasar_demo_app/protected/license_guard.py",
+    "rasar_demo_app/protected/premium_rules.py",
+    "rasar_demo_app/protected/sensitive_logic.py"
+  ],
+  "protection_policy_version": "selective_protected_v1",
+  "runtime_paths": [
+    "pyarmor_runtime_000000/"
+  ],
+  "sensitive_findings_count": 0,
+  "sensitive_findings_summary": [],
+  "source_commit": "",
+  "source_path_sanitized": "<approved_source>/rasar_demo_app/main",
+  "version": "0.1.0",
+  "warning_if_protected_copy": ""
+}

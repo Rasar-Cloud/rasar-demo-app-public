@@ -1,0 +1,6 @@
+app_name = "rasar_demo_app"
+app_title = "Rasar Demo App"
+app_publisher = "Rasar Cloud"
+app_description = "App demo para validar distribucion externa RasarCheck."
+app_email = "soporte-rasar.cloud@gruporasar.com"
+app_license = "Proprietary"
