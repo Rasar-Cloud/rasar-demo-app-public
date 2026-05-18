@@ -1,7 +1,7 @@
 {
   "app_id": "rasar_demo_app",
   "app_name": "Rasar Demo App",
-  "build_id": "pbuild_rasar_demo_app_0.1.0_20260515224004_a11b2118_knd90j",
+  "build_id": "pbuild_rasar_demo_app_0.1.0_20260517192058_2dfdf94a_glysml",
   "build_mode": "pyarmor",
   "clear_paths": [
     "pyproject.toml",
@@ -9,7 +9,7 @@
     "rasar_demo_app/hooks.py",
     "rasar_demo_app/modules.txt"
   ],
-  "created_at": "2026-05-15 22:40:04.945688",
+  "created_at": "2026-05-17 19:20:58.100293",
   "created_by": "Administrator",
   "excluded_count": 0,
   "files_count": 27,
